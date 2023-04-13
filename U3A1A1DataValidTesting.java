@@ -1,6 +1,5 @@
 /*
  * Program: U3A1A1 Data Validation and Testing Data
- * Date   : October 2020
  * Purpose: A program that will validate data entered by the user.
  */
 package u3a1a1datavalidtesting;
